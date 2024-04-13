@@ -3,9 +3,25 @@ Webpack:
 
 Webpack is use to bundle all file into a single file. We can use the bundled file in our app when we have multiple files in the same project. 
 
+=========================================
 Eg:  Project - Src
                ||
                \/
                 Index.html
                 main.js
                 func.js
+=========================================
+Working example attached in this folder (Example1)
+=========================================
+
+
+To solve this issue. Use webpack with node js and try install latest node js in our PC. After Installed Node js in our PC.
+
+* Navigate to the project Dir
+* Open the CMD and Create a npm project by using this commend "npm init"
+     * by create this we can achive in two ways  
+         *  npm init -y (It'll automatically build your Package.js )
+         *  npm init (Configuration for our the project needs)
+* Install webpack webpack-cli in the devdepenedencies
+
+

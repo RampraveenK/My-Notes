@@ -1,0 +1,11 @@
+Webpack:
+
+
+Webpack is use to bundle all file into a single file. We can use the bundled file in our app when we have multiple files in the same project. 
+
+Eg:  Project - Src
+               ||
+               \/
+                Index.html
+                main.js
+                func.js

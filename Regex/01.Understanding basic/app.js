@@ -39,3 +39,13 @@ console.log(txt.match())
 
 
 // Controlled Characters
+
+
+
+// Character Set Shorthand
+
+// \d [0-9] - number char
+// \D [^0-9] - Non number char
+// \w [a-zA-Z0-9_] - word
+// \s [\t\r\n] - WhiteSpace area
+// \S [^\t\r\n] - Non WhiteSpace area

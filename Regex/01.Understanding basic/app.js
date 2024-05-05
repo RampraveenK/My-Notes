@@ -32,3 +32,10 @@ console.log(txt.match())
 
 // META-CHARACTERS 
 //  ^$.*+?=!:|\/()[]{}
+
+//  . - any character except newline
+//  \ - Skip the specical character eg: /ram\@/ checks ram@ is there or not
+
+
+
+// Controlled Characters
